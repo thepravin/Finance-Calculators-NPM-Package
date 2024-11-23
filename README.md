@@ -124,7 +124,7 @@ This project is licensed under the Apache-2.0 License.
 
 ## Contributing
 
-If you'd like to contribute to `easy-finance-calculator`, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/your-repo-link). Contributions, issues, and feature requests are welcome! 
+If you'd like to contribute to `easy-finance-calculator`, feel free to open an issue or submit a pull request on the [GitHub repository](https://github.com/thepravin/Finance-Calculators-NPM-Package). Contributions, issues, and feature requests are welcome! 
 
 ---
 

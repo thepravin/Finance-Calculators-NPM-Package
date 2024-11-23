@@ -11,8 +11,20 @@
     "url": "git+https://github.com/thepravin/Finance-Calculators-NPM-Package.git"
   },
   "keywords": [
-    "npm"
-  ],
+    "npm",
+    "finance",
+    "calculator",
+    "simple interest",
+    "compound interest",
+    "SIP calculator",
+    "investment",
+    "financial tools",
+    "financial calculations",
+    "finance API",
+    "interest calculator",
+    "money management",
+    "easy finance"
+],
   "author": "Pravin Nalawade",
   "license": "Apache-2.0",
   "bugs": {

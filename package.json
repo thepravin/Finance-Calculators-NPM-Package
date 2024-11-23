@@ -1,0 +1,22 @@
+{
+  "name": "finance-calculator",
+  "version": "1.0.0",
+  "description": "This package provides multiple financial calculators.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thepravin/Finance-Calculators-NPM-Package.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Pravin Nalawade",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/thepravin/Finance-Calculators-NPM-Package/issues"
+  },
+  "homepage": "https://github.com/thepravin/Finance-Calculators-NPM-Package#readme"
+}

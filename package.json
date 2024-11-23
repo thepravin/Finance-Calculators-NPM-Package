@@ -1,6 +1,6 @@
 {
   "name": "easy-finance-calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package provides multiple financial calculators.",
   "main": "index.js",
   "scripts": {
@@ -24,7 +24,7 @@
     "interest calculator",
     "money management",
     "easy finance"
-],
+  ],
   "author": "Pravin Nalawade",
   "license": "Apache-2.0",
   "bugs": {

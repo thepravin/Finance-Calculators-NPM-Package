@@ -1,5 +1,5 @@
 {
-  "name": "finance-calculator",
+  "name": "easy-finance-calculator",
   "version": "1.0.0",
   "description": "This package provides multiple financial calculators.",
   "main": "index.js",
